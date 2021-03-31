@@ -1,0 +1,11 @@
+﻿@model API_Practice.Models.ViewModels.TenRandomJokesVM
+
+<div>
+    @foreach (var num in Model.Number)
+    {
+        <h3>@Model.Type</h3>
+        <h3>@Model.Setup</h3>
+        <h3>@Model.Punchline</h3>
+    }
+
+</div>

@@ -1,0 +1,38 @@
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.csprojAssemblyReference.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.AssemblyInfo.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.RazorAssemblyInfo.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.RazorAssemblyInfo.cs
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.exe
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.deps.json
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.runtimeconfig.json
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.runtimeconfig.dev.json
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.dll
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.pdb
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.Views.dll
+C:\Users\there\source\repos\API Practice\API Practice\bin\Debug\netcoreapp3.1\API Practice.Views.pdb
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\staticwebassets\API Practice.StaticWebAssets.Manifest.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\staticwebassets\API Practice.StaticWebAssets.xml
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\scopedcss\bundle\API Practice.styles.css
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.TagHelpers.input.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.TagHelpers.output.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.RazorCoreGenerate.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\Home\TenRandomJokes.cshtml.g.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.RazorTargetAssemblyInfo.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.RazorTargetAssemblyInfo.cs
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.Views.pdb
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.dll
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.pdb
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.genruntimeconfig.cache
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\API Practice.csproj.CopyComplete
+C:\Users\there\source\repos\API Practice\API Practice\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetRandomJoke.cshtml.g.cs
